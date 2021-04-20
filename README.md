@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @evanricafort
 - 👀 I’m interested in web application security vulnerability testing and other stuff related to information security.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python. ngl, I'm not good in programming.
 - 💞️ I’m looking to collaborate for some information security related stuff...
-- 📫 Hit me up hello@evanricafort.com
+- 📫 Hit me up root@evanricafort.com
 
 <!---
 evanricafort/evanricafort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
