@@ -1,5 +1,5 @@
 ## whoami
-- 👋 I’m __Evan__ (_@evanricafort_)
+- 👋 I’m __Evan__✨ (_@evanricafort_)
 - 👩‍💻 I'm currently working as an `Offensive Security Engineer`.
 - 👀 I’m interested in `web application assessment`, `api testing`, `network pentesting` and other information security stuff.
 - 🌱 I’m currently adopting and integrating `AI` into my workflow.
