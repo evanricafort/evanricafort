@@ -5,8 +5,9 @@
 - 🌱 I’m currently adopting and integrating `AI` into my workflow.
 - 📫 Hit me up root@evanricafort.com or dm on twitter/x if you want to `hire` or `invite me` on your bug bounty program.
 
-## portfolio
-🔗 https://evanricafort.com & https://blog.evanricafort.com
+## portfolio & blog
+- 🔗 https://evanricafort.com
+- 🔗 https://blog.evanricafort.com
 
 ## achievements & contribution
 __CVE Contribution:__
