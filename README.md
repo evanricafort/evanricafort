@@ -9,7 +9,7 @@
 - 🔗 https://evanricafort.com
 - 🔗 https://blog.evanricafort.com
 
-## achievements & contribution
+## achievement & contribution
 __CVE Contribution:__
 - [Wordpress - CVE-2019-17672](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-524-authenticated-stored-cross-site-scripting?asset_slug=wordpress)
 - [Wordpress - CVE-2019-17674](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-524-authenticated-stored-cross-site-scripting-via-customizer?asset_slug=wordpress)
