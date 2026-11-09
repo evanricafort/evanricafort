@@ -2,7 +2,7 @@
 - 👋 I’m __Evan✨__ (_@evanricafort_)
 - 👩‍💻 I'm currently working as an `Offensive Security Engineer`.
 - 👀 I’m interested in `web application assessment`, `api testing`, `network pentesting` and other information security stuff.
-- 🌱 I’m currently adopting and integrating `AI (Hackbot Name: Reconfarm Agent)` into my workflow.
+- 🌱 I’m currently adopting and integrating `AI (Hackbot Alias: ReconFarm Agent)` into my workflow.
 - 📫 Hit me up root@evanricafort.com or dm on twitter/x if you want to `hire` or `invite me` on your bug bounty program.
 
 ## portfolio & blog
