@@ -16,7 +16,7 @@ __CVE:__
 - [Wordpress - CVE-2020-11025](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-541-authenticated-cross-site-scripting-via-customizer?asset_slug=wordpress)
 - [Wordpress - CVE-2021-39202](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-58-beta-stored-cross-site-scripting-in-custom-html-block?asset_slug=wordpress)
 - [Apple (iOS) - CVE-2022-32918](https://www.cve.org/CVERecord?id=CVE-2022-32918)
-- [Apache Software Foundation (Airflow) - CVE-2026-111455](https://www.cve.org/CVERecord?id=CVE-2026-111455)
+- [Apache Software Foundation - CVE-2026-111455](https://www.cve.org/CVERecord?id=CVE-2026-111455)
 
 __Other Contribution:__ 
 - [Peerio Technologies - Peerio Desktop Application Patch Release](https://web.archive.org/web/20201029003613/github.com/PeerioTechnologies/peerio-desktop/releases/tag/v2.98.7)
